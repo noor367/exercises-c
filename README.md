@@ -1,2 +1,4 @@
 # exercises-c
-Programs written in C, mainly for university assignments
+Programs written in C.
+
+These programs were mostly used in course assignments.
